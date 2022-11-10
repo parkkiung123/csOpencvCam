@@ -1,0 +1,12 @@
+C:\Users\parkk\source\repos\OpenCVCam\OpenCVCam\bin\Release\OpenCVCam.exe.config
+C:\Users\parkk\source\repos\OpenCVCam\OpenCVCam\bin\Release\OpenCVCam.exe
+C:\Users\parkk\source\repos\OpenCVCam\OpenCVCam\bin\Release\OpenCVCam.pdb
+C:\Users\parkk\source\repos\OpenCVCam\OpenCVCam\obj\Release\OpenCVCam.csprojAssemblyReference.cache
+C:\Users\parkk\source\repos\OpenCVCam\OpenCVCam\obj\Release\OpenCVCam.Form1.resources
+C:\Users\parkk\source\repos\OpenCVCam\OpenCVCam\obj\Release\OpenCVCam.Properties.Resources.resources
+C:\Users\parkk\source\repos\OpenCVCam\OpenCVCam\obj\Release\OpenCVCam.csproj.GenerateResource.cache
+C:\Users\parkk\source\repos\OpenCVCam\OpenCVCam\obj\Release\OpenCVCam.exe
+C:\Users\parkk\source\repos\OpenCVCam\OpenCVCam\obj\Release\OpenCVCam.pdb
+C:\Users\parkk\source\repos\OpenCVCam\OpenCVCam\bin\Release\ImgProc.dll
+C:\Users\parkk\source\repos\OpenCVCam\OpenCVCam\bin\Release\ImgProc.pdb
+C:\Users\parkk\source\repos\OpenCVCam\OpenCVCam\obj\Release\OpenCVCam.csproj.CopyComplete
